@@ -1,0 +1,8 @@
+Sop/attribdelete /Applications/Houdini/Houdini19.5.569/Frameworks/Houdini.framework/Versions/19.5/Resources/houdini/otls/OPlibSop.hda
+Sop/attribdelete otls/OPlibSop.hda
+Sop/attribwrangle /Applications/Houdini/Houdini19.5.569/Frameworks/Houdini.framework/Versions/19.5/Resources/houdini/otls/OPlibSop.hda
+Sop/attribwrangle otls/OPlibSop.hda
+Sop/convertline /Applications/Houdini/Houdini19.5.569/Frameworks/Houdini.framework/Versions/19.5/Resources/houdini/otls/OPlibSop.hda
+Sop/convertline otls/OPlibSop.hda
+Sop/polypath /Applications/Houdini/Houdini19.5.569/Frameworks/Houdini.framework/Versions/19.5/Resources/houdini/otls/OPlibSop.hda
+Sop/polypath otls/OPlibSop.hda
